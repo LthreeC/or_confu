@@ -14,3 +14,13 @@ pip install -r requirement.txt
 ```
 python cry_webui.py
 ```
+
+# 展示
+
+![](images/1.png)
+混淆
+
+---
+
+![](images/2.png)
+恢复
